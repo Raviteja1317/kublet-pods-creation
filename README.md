@@ -57,6 +57,7 @@ image: nginx:1.14.2
 ports:
 
 containerPort: 80
+![Screenshot (9)](https://github.com/user-attachments/assets/854bf1e7-0a7c-4fa9-a020-2321318dbd4d)
 
 
 
