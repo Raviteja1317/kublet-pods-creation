@@ -9,4 +9,5 @@ sudo su -
 apt update -y
 
 **step:2   install docker**
+![Screenshot (6)](https://github.com/user-attachments/assets/ac4254fb-b1ca-452a-b327-30be7343d300)
 
