@@ -15,6 +15,7 @@ sudo mv minikube-linux-amd64 /usr/local/bin/minikube
 sudo chmod +x /usr/local/bin/minik be
 
 sudo minikube version
+**step:3**
 
 sudo apt install curl wget apt-transport-https -y
 
@@ -36,7 +37,7 @@ kubectl run pod1 --image=nginx
 
 kubectl get pods
 
-vi Raviteja.yml
+**vi Raviteja.yml**
 
 apiVersion: v1
 
@@ -50,7 +51,7 @@ spec:
 
 containers:
 
-name: nginx
+**name: nginx**
 
 image: nginx:1.14.2
 
